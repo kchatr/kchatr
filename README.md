@@ -19,3 +19,6 @@ I'm Kaushik - a 16-year old software developer and machine learning enthusiast! 
 - 🌱 I’m currently learning Dart for creating UIs with Flutter for creating Android and web applications, as well as creating games in Unity with C#.
 - 💬 Ask me about anything related to math, linear regression, or computer science. 
 - 📫 How to reach me: My LinkedIn (https://linkedin.com/in/kchatr) or my twitter (https://twitter.com/kchatr_). Always open to new discussions :)
+
+
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=kchatr)](https://github.com/kchatr/github-readme-stats)
