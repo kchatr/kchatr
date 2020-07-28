@@ -15,9 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 I'm Kaushik - a 16-year old software developer and machine learning enthusiast! I love learning about new technologies and languages, and I'm always looking for inspiration.
-- 🔭 I’m currently working on creating a technical analysis web app for trading in Python and Streamlit, as well as implementing transactions in my blockchain.
+- 🔭 I’m currently working on creating a technical analysis web app for trading in Python and Streamlit, as well as implementing transactions in my blockchain. 
 - 🌱 I’m currently learning Dart for creating UIs with Flutter for creating Android and web applications, as well as creating games in Unity with C#.
-- 💬 Ask me about anything related to math, linear regression, or computer science. 
+- 💬 Ask me about anything related to math, machine learning, blockchain, or computer science. 
 - 📫 How to reach me: My LinkedIn (https://linkedin.com/in/kchatr) or my twitter (https://twitter.com/kchatr_). Always open to new discussions :)
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kchatr)]
