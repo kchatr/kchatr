@@ -21,4 +21,4 @@ I'm Kaushik - a 16-year old software developer and machine learning enthusiast! 
 - 📫 How to reach me: My LinkedIn (https://linkedin.com/in/kchatr) or my twitter (https://twitter.com/kchatr_). Always open to new discussions :)
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kchatr)](https://github.com/kchatr/github-readme-stats)
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=kchatr)](https://github.com/kchatr/github-readme-stats&theme=dark&show_icons=true)
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=kchatr&show_icons=true&theme=tokyonight)](https://github.com/kchatr/github-readme-stats)
