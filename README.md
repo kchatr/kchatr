@@ -1,4 +1,4 @@
-### Hi there 👋
+### Welcome to my Github :D
 
 <!--
 **kchatr/kchatr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,9 +16,9 @@ Here are some ideas to get you started:
 -->
 # Intro
 I'm Kaushik - a 16-year old quantum computing & machine learning enthusiast and software developer! I love learning about new technologies and languages, and I'm always looking for inspiration. I am also a contributor for Data Driven Investor and writer for Cantor's Paradise and The Startup on Medium. You can learn more about me from my website, https://kchatr.github.io
-- 🔭 I’m currently working on implementing quantum algorithm's using Qiskit and the IBM Quantum Computing Cloud Environment and the applications of generative algorithms in artificial neural networks.
+- 🔭 I’m currently working on implementing quantum algorithm's using Qiskit and the IBM Quantum Computing Cloud Environment and the applications of generative algorithms in artificial neural networks. 
 - 🌱 I’m currently learning Dart for creating UIs and using Flutter for creating Android and web applications. I'm also learning more about neural networks and using Tensorflow and PyTorch to solve various problems.
-- 💬 Ask me about anything related to math, machine learning, quantum computing, blockchain, computer science, music, or sports :)
+- 💬 Ask me about anything related to math, machine learning, quantum computing, blockchain, computer science, or investing :)
 - 📫 How to reach me: My LinkedIn (https://linkedin.com/in/kchatr) or my personal email (kchatr179@gmail.com). You can check out my articles at https://medium.com/@kchatr
 
 # Languages
