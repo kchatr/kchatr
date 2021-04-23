@@ -23,14 +23,14 @@ I'm Kaushik - a 16-year old quantum computing & machine learning enthusiast and 
 
 ---
 🧰 Toolkit  
-<img src = "https://raw.githubusercontent.com/devicons/devicon/c7d326b6009e60442abc35fa45706d6f30ee4c8e/icons/html5/html5-original-wordmark.svg" width = "50" height = "50">
-<img src = "https://raw.githubusercontent.com/devicons/devicon/c7d326b6009e60442abc35fa45706d6f30ee4c8e/icons/css3/css3-original-wordmark.svg" width = "50" height = "50">
-<img src = "https://raw.githubusercontent.com/devicons/devicon/c7d326b6009e60442abc35fa45706d6f30ee4c8e/icons/java/java-original-wordmark.svg" width = "50" height = "50">
-<img src = "https://raw.githubusercontent.com/devicons/devicon/c7d326b6009e60442abc35fa45706d6f30ee4c8e/icons/python/python-original-wordmark.svg" width = "50" height = "50">
-<img src = "https://raw.githubusercontent.com/devicons/devicon/c7d326b6009e60442abc35fa45706d6f30ee4c8e/icons/dart/dart-original-wordmark.svg" width = "50" height = "50">
-<img src = "https://raw.githubusercontent.com/devicons/devicon/c7d326b6009e60442abc35fa45706d6f30ee4c8e/icons/go/go-original.svg" width = "50" height = "50">
-<img src = "https://raw.githubusercontent.com/devicons/devicon/c7d326b6009e60442abc35fa45706d6f30ee4c8e/icons/flutter/flutter-original.svg" width = "50" height = "50">
-<img src = "https://raw.githubusercontent.com/devicons/devicon/c7d326b6009e60442abc35fa45706d6f30ee4c8e/icons/git/git-original-wordmark.svg" width = "50" height = "50">
+<img src = "https://raw.githubusercontent.com/devicons/devicon/c7d326b6009e60442abc35fa45706d6f30ee4c8e/icons/html5/html5-original-wordmark.svg" width = "100" height = "100">
+<img src = "https://raw.githubusercontent.com/devicons/devicon/c7d326b6009e60442abc35fa45706d6f30ee4c8e/icons/css3/css3-original-wordmark.svg" width = "100" height = "100">
+<img src = "https://raw.githubusercontent.com/devicons/devicon/c7d326b6009e60442abc35fa45706d6f30ee4c8e/icons/java/java-original-wordmark.svg" width = "100" height = "100">
+<img src = "https://raw.githubusercontent.com/devicons/devicon/c7d326b6009e60442abc35fa45706d6f30ee4c8e/icons/python/python-original-wordmark.svg" width = "100" height = "100">
+<img src = "https://raw.githubusercontent.com/devicons/devicon/c7d326b6009e60442abc35fa45706d6f30ee4c8e/icons/dart/dart-original-wordmark.svg" width = "100" height = "100">
+<img src = "https://raw.githubusercontent.com/devicons/devicon/c7d326b6009e60442abc35fa45706d6f30ee4c8e/icons/go/go-original.svg" width = "50" height = "100">
+<img src = "https://raw.githubusercontent.com/devicons/devicon/c7d326b6009e60442abc35fa45706d6f30ee4c8e/icons/flutter/flutter-original.svg" width = "100" height = "100">
+<img src = "https://raw.githubusercontent.com/devicons/devicon/c7d326b6009e60442abc35fa45706d6f30ee4c8e/icons/git/git-original-wordmark.svg" width = "100" height = "100">
 ---
 
 # Languages
