@@ -21,6 +21,18 @@ I'm Kaushik - a 16-year old quantum computing & machine learning enthusiast and 
 - 💬 Ask me about anything related to math, machine learning, quantum computing, blockchain, computer science, or investing :)
 - 📫 How to reach me: My LinkedIn (https://linkedin.com/in/kchatr) or my personal email (kchatr179@gmail.com). You can check out my articles at https://medium.com/@kchatr
 
+---
+🧰 Toolkit
+<img src = "https://raw.githubusercontent.com/devicons/devicon/c7d326b6009e60442abc35fa45706d6f30ee4c8e/icons/html5/html5-original-wordmark.svg" width = "50" height = "50">
+<img src = "https://raw.githubusercontent.com/devicons/devicon/c7d326b6009e60442abc35fa45706d6f30ee4c8e/icons/css3/css3-original-wordmark.svg" width = "50" height = "50">
+<img src = "https://raw.githubusercontent.com/devicons/devicon/c7d326b6009e60442abc35fa45706d6f30ee4c8e/icons/java/java-original-wordmark.svg" width = "50" height = "50">
+<img src = "https://raw.githubusercontent.com/devicons/devicon/c7d326b6009e60442abc35fa45706d6f30ee4c8e/icons/python/python-original-wordmark.svg" width = "50" height = "50">
+<img src = "https://raw.githubusercontent.com/devicons/devicon/c7d326b6009e60442abc35fa45706d6f30ee4c8e/icons/dart/dart-original-wordmark.svg" width = "50" height = "50">
+<img src = "https://raw.githubusercontent.com/devicons/devicon/c7d326b6009e60442abc35fa45706d6f30ee4c8e/icons/go/go-original.svg" width = "50" height = "50">
+<img src = "https://raw.githubusercontent.com/devicons/devicon/c7d326b6009e60442abc35fa45706d6f30ee4c8e/icons/flutter/flutter-original.svg" width = "50" height = "50">
+<img src = "https://raw.githubusercontent.com/devicons/devicon/c7d326b6009e60442abc35fa45706d6f30ee4c8e/icons/git/git-original-wordmark.svg" width = "50" height = "50">
+---
+
 # Languages
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kchatr)
 
