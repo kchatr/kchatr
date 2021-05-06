@@ -45,4 +45,4 @@ I'm Kaushik - a 16-year old quantum computing & machine learning enthusiast and 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=kchatr&repo=iris-classification-webapp&theme=tokyonight)](https://github.com/kchatr/iris-classification-webapp)
 
 # Stats:
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=kchatr&show_icons=true&theme=tokyonight)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=kchatr&show_icons=true&theme=tokyonight&count_private=true)
