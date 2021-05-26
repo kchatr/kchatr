@@ -1,4 +1,4 @@
-### Welcome to my Github :D
+# Welcome to my Github :D
 
 <!--
 **kchatr/kchatr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
