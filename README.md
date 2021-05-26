@@ -15,11 +15,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 # Intro
-I'm Kaushik - a 16-year old quantum computing & machine learning enthusiast and software developer! I love learning about new technologies and languages, and I'm always looking for inspiration. I am also a contributor for Data Driven Investor and writer for Cantor's Paradise and The Startup on Medium. You can learn more about me from my website, https://kchatr.github.io
-- 🔭 I’m currently working on implementing quantum algorithm's using Qiskit and the IBM Quantum Computing Cloud Environment and the applications of generative algorithms in artificial neural networks. I'm also working on integrating Tensorflow Lite with Flutter for creating AI mobile applications.  
+I'm Kaushik - a 17-year old quantum computing & machine learning enthusiast and software developer! I love learning about new technologies and languages, and I'm always looking for inspiration. I am also a contributor for Data Driven Investor and writer for Cantor's Paradise and The Startup on Medium. You can learn more about me from my website, https://kchatr.github.io
+- 🔭 I’m currently working on implementing quantum algorithm's using Qiskit and the IBM Quantum Computing Cloud Environment and the applications of generative algorithms in artificial neural networks. I'm also working on integrating Tensorflow Lite with Flutter for creating AI mobile applications :D  
 - 🌱 I’m currently learning Dart for creating UIs and using Flutter for creating mobile and web applications at scale. I'm also learning more about applying neural networks to time series & stochastic data and understanding how to use quantative analysis for investing.
 - 💬 Ask me about anything related to math, machine learning, quantum computing, blockchain, computer science, or investing :)
-- 📫 How to reach me: My LinkedIn (https://linkedin.com/in/kchatr) or my personal email (kchatr179@gmail.com). You can check out my articles at https://medium.com/@kchatr
+- 📫 How to reach me: My LinkedIn (https://linkedin.com/in/kchatr). You can check out my articles at https://medium.com/@kchatr
 
 ---
 🧰 Toolkit  
@@ -31,6 +31,9 @@ I'm Kaushik - a 16-year old quantum computing & machine learning enthusiast and 
 <img src = "https://raw.githubusercontent.com/devicons/devicon/c7d326b6009e60442abc35fa45706d6f30ee4c8e/icons/go/go-original.svg" width = "50" height = "100">
 <img src = "https://raw.githubusercontent.com/devicons/devicon/c7d326b6009e60442abc35fa45706d6f30ee4c8e/icons/flutter/flutter-original.svg" width = "100" height = "100">
 <img src = "https://raw.githubusercontent.com/devicons/devicon/c7d326b6009e60442abc35fa45706d6f30ee4c8e/icons/git/git-original-wordmark.svg" width = "100" height = "100">
+
+---
+My Github
 ---
 
 # Languages
