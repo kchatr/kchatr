@@ -22,7 +22,8 @@ I'm Kaushik - a 17-year old quantum computing & machine learning enthusiast and 
 - 📫 How to reach me: My LinkedIn (https://linkedin.com/in/kchatr). You can check out my articles at https://medium.com/@kchatr
 
 ---
-🧰 Toolkit 
+🧰 Toolkit
+</br>
 <img src = "https://raw.githubusercontent.com/devicons/devicon/c7d326b6009e60442abc35fa45706d6f30ee4c8e/icons/html5/html5-original-wordmark.svg" width = "100" height = "100">
 <img src = "https://raw.githubusercontent.com/devicons/devicon/c7d326b6009e60442abc35fa45706d6f30ee4c8e/icons/css3/css3-original-wordmark.svg" width = "100" height = "100">
 <img src = "https://raw.githubusercontent.com/devicons/devicon/c7d326b6009e60442abc35fa45706d6f30ee4c8e/icons/java/java-original-wordmark.svg" width = "100" height = "100">
