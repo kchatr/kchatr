@@ -41,12 +41,12 @@ My Github
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kchatr)
 
 # Projects
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=kchatr&repo=calorme&theme=tokyonight)](https://github.com/kchatr/calorme)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=kchatr&repo=flappy-bird-NEAT&theme=tokyonight)](https://github.com/kchatr/flappy-bird-NEAT)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=kchatr&repo=quantum-rng&theme=tokyonight)](https://github.com/kchatr/quantum-rng)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=kchatr&repo=CNN-ImageClassifier&theme=tokyonight)](https://github.com/kchatr/CNN-ImageClassifier)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=kchatr&repo=Indicium-Blockchain&theme=tokyonight)](https://github.com/kchatr/Indicium-Blockchain)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=kchatr&repo=flappy-bird-NEAT&theme=tokyonight)](https://github.com/kchatr/flappy-bird-NEAT)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=kchatr&repo=kmeans-image-compression&theme=tokyonight)](https://github.com/kchatr/kmeans-image-compression)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=kchatr&repo=iris-classification-webapp&theme=tokyonight)](https://github.com/kchatr/iris-classification-webapp)
 
 # Stats:
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=kchatr&show_icons=true&theme=tokyonight&count_private=true)
