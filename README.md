@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 # Intro
-I'm Kaushik - an 18-year old quantum computing & machine learning enthusiast and software developer! I love learning about new technologies and languages, and I'm always looking for inspiration. I am also a contributor for Data Driven Investor and a writer for Cantor's Paradise and The Startup on Medium. You can learn more about me from my website, https://kchatr.github.io
+I'm Kaushik - an 19-year old quantum computing & machine learning enthusiast and software developer! I love learning about new technologies and languages, and I'm always looking for inspiration. I am also a contributor for Data Driven Investor and a writer for Cantor's Paradise and The Startup on Medium. You can learn more about me from my website, https://kchatr.github.io
 - 🔭 I’m currently working on implementing quantum algorithm's using Qiskit and the IBM Quantum Computing Cloud Environment and the applications of generative algorithms in artificial neural networks. I'm also working on integrating Tensorflow Lite with Flutter for creating AI mobile applications :D  
 - 🌱 I’m currently learning how to integrate Flutter with Firebase to create a backend for a multi-platform application. I'm also learning more about applying neural networks to time series & stochastic data and understanding how to use quantative analysis for investing.
 - 💬 Ask me about anything related to math, machine learning, quantum computing, blockchain, computer science, or investing :)
