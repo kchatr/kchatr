@@ -15,10 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 # Intro
-I'm Kaushik - an 19-year old quantum computing & machine learning enthusiast and software developer! I love learning about new technologies and languages, and I'm always looking for inspiration. I am also a contributor for Data Driven Investor and a writer for Cantor's Paradise and The Startup on Medium. You can learn more about me from my website, https://kchatr.github.io
-- 🔭 I’m currently working on implementing quantum algorithm's using Qiskit and the IBM Quantum Computing Cloud Environment and the applications of generative algorithms in artificial neural networks. I'm also working on integrating Tensorflow Lite with Flutter for creating AI mobile applications :D  
-- 🌱 I’m currently learning how to integrate Flutter with Firebase to create a backend for a multi-platform application. I'm also learning more about applying neural networks to time series & stochastic data and understanding how to use quantative analysis for investing.
-- 💬 Ask me about anything related to math, machine learning, quantum computing, blockchain, computer science, or investing :)
+I'm Kaushik - a 20-year-old AI developer and Data Science enthusiast. I'm especially passionate about responsible AI development, with ethical alignment and interpretability my primary areas of interest. I have significant experience working with retrieval-augmented generative (RAG) models, as well as autoregressive and classification algorithms. 
+- 🔭 I recently interned as a Data Scientist at ProCogia, where I developed autoregressive models for real-time data, as well as benchmarking LLms and implementing guardrails. Previously, I developed, evaluated, and fine-tuned retriever and generative models in RAG systems and deployed LLMs to REST API endpoints.
+- 🌱 I’m currently learning more about 3D model generation in the context of spatial computing, as well as developing an interest in representation learning and multimodal techniques.
+- 💬 Ask me about anything related to generative AI, machine learning, or philosophy :)
 - 📫 How to reach me: My LinkedIn (https://linkedin.com/in/kchatr). You can check out my articles at https://medium.com/@kchatr
 
 ---
