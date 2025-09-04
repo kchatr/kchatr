@@ -22,28 +22,20 @@ I'm Kaushik - a 21-year-old AI developer and undergrad CS student at UWaterloo. 
 - 📫 How to reach me: My LinkedIn, https://linkedin.com/in/kchatr, or email, kchatter@uwaterloo.ca
 
 ---
-🧰 Toolkit
+# 🧰 Toolkit
 </br>
-<img src = "https://raw.githubusercontent.com/devicons/devicon/c7d326b6009e60442abc35fa45706d6f30ee4c8e/icons/html5/html5-original-wordmark.svg" width = "100" height = "100">
-<img src = "https://raw.githubusercontent.com/devicons/devicon/c7d326b6009e60442abc35fa45706d6f30ee4c8e/icons/css3/css3-original-wordmark.svg" width = "100" height = "100">
-<img src = "https://raw.githubusercontent.com/devicons/devicon/c7d326b6009e60442abc35fa45706d6f30ee4c8e/icons/java/java-original-wordmark.svg" width = "100" height = "100">
-<img src = "https://raw.githubusercontent.com/devicons/devicon/c7d326b6009e60442abc35fa45706d6f30ee4c8e/icons/python/python-original-wordmark.svg" width = "100" height = "100">
-<img src = "https://raw.githubusercontent.com/devicons/devicon/c7d326b6009e60442abc35fa45706d6f30ee4c8e/icons/dart/dart-original-wordmark.svg" width = "100" height = "100">
-<img src = "https://raw.githubusercontent.com/devicons/devicon/c7d326b6009e60442abc35fa45706d6f30ee4c8e/icons/go/go-original.svg" width = "50" height = "100">
-<img src = "https://raw.githubusercontent.com/devicons/devicon/c7d326b6009e60442abc35fa45706d6f30ee4c8e/icons/flutter/flutter-original.svg" width = "100" height = "100">
-<img src = "https://raw.githubusercontent.com/devicons/devicon/c7d326b6009e60442abc35fa45706d6f30ee4c8e/icons/git/git-original-wordmark.svg" width = "100" height = "100">
-
+[![My Skills](https://skillicons.dev/icons?i=py,cpp,c,pytorch,tensorflow,sklearn,aws,kubernetes&theme=dark)](https://skillicons.dev)
 ---
-My Github
+# My Github
 ---
 
-# Languages
+## Languages
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kchatr)
 
-# Projects
+## Projects
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=kchatr&repo=pipecat&theme=tokyonight)]([https://github.com/kchatr/calorme](https://github.com/kchatr/pipecat/tree/kaushik/baseten-plugin))
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=kchatr&repo=calorme&theme=tokyonight)](https://github.com/kchatr/calorme)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=kchatr&repo=flappy-bird-NEAT&theme=tokyonight)](https://github.com/kchatr/flappy-bird-NEAT)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=kchatr&repo=quantum-rng&theme=tokyonight)](https://github.com/kchatr/quantum-rng)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=kchatr&repo=CNN-ImageClassifier&theme=tokyonight)](https://github.com/kchatr/CNN-ImageClassifier)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=kchatr&repo=Indicium-Blockchain&theme=tokyonight)](https://github.com/kchatr/Indicium-Blockchain)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=kchatr&repo=kmeans-image-compression&theme=tokyonight)](https://github.com/kchatr/kmeans-image-compression)
