@@ -23,11 +23,9 @@ I'm Kaushik - a 21-year-old AI developer and undergrad CS student at UWaterloo. 
 
 ---
 # 🧰 Toolkit
-</br>
 [![My Skills](https://skillicons.dev/icons?i=py,cpp,c,pytorch,tensorflow,sklearn,aws,kubernetes&theme=dark)](https://skillicons.dev)
 ---
 # My Github
----
 
 ## Languages
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kchatr)
