@@ -33,7 +33,7 @@ I'm Kaushik - a 21-year-old AI developer and undergrad CS student at UWaterloo. 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kchatr)
 
 ## Projects
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=kchatr&repo=pipecat&theme=tokyonight)]([https://github.com/kchatr/calorme](https://github.com/kchatr/pipecat/tree/kaushik/baseten-plugin))
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=kchatr&repo=pipecat&theme=tokyonight)](https://github.com/kchatr/pipecat/tree/kaushik/baseten-plugin)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=kchatr&repo=calorme&theme=tokyonight)](https://github.com/kchatr/calorme)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=kchatr&repo=flappy-bird-NEAT&theme=tokyonight)](https://github.com/kchatr/flappy-bird-NEAT)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=kchatr&repo=quantum-rng&theme=tokyonight)](https://github.com/kchatr/quantum-rng)
